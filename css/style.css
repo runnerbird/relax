@@ -113,19 +113,19 @@
 }
 
 .sound-picker button:nth-child(1) {
-  background-image: url(/svg/rain.jpg);
+  background-image: url(./svg/rain.jpg);
 }
 
 .sound-picker button:nth-child(2) {
-  background-image: url(/svg/beach.jpg);
+  background-image: url(./svg/beach.jpg);
 }
 
 .sound-picker button:nth-child(3) {
-  background-image: url(/svg/forest.jpg);
+  background-image: url(./svg/forest.jpg);
 }
 
 .sound-picker button:nth-child(4) {
-  background-image: url(/svg/space.jpg);
+  background-image: url(./svg/space.jpg);
 }
 
 .sound-picker button img {
